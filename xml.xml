@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<collection xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms"
+	xmlns:cdwalite="https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf" xml:id="Martino Dolci">
+	<item n="1">
+
+
+
+<!--metadati descrittivi-->	
+
+<!--identificativi-->
+     <dc:identifier>  </dc:identifier>
+<!--titolo dipinto-->
+     <dc:title>La chiesa del Carmine</dc:title>
+     <cdwalite:titleWrap>
+	  <cdwalite:titleSet><cdwalite:title>La chiesa del Carmine</cdwalite:title>
+	  <cdwalite:sourceTitle>Fondazione Dolci</cdwalite:sourceTitle>
+     </cdwalite:titleSet>
+     </cdwalite:titleWrap>
+
+<!--creatore dipinto-->
+    <dc:creator>Martino Dolci</dc:creator>
+    <cdwalite:indexingCreatorWrap>
+     <cdwalite:indexingCreatorSet>
+      <cdwalite:nameCreatorSet> <cdwalite:nameCreator type="personalName" termsource="ULAN"> Dolci, Martino</cdwalite:nameCreator>
+    </cdwalite:nameCreatorSet>
+    <cdwalite:nationalityCreator>Italiana </cdwalite:nationalityCreator>
+    <cdwalite:vitalDatesCreator birthdate="1912-04-27" deathdate="1994-04-22">1912-1994</cdwalite:vitalDatesCreator>
+    <cdwalite:roleCreator>pittore</cdwalite:roleCreator><cdwalite:genderCreator>maschio
+</cdwalite:genderCreator>
+   </cdwalite:indexingCreatorSet>
+  </cdwalite:indexingCreatorWrap> 
+
+  <!--tipologia item-->
+  <dc:type>quadro</dc:type>
+  <cdwalite:objectWorkTypeWrap>
+<cdwalite:objectWorkType termsource="AAT">dipinto </cdwalite:objectWorkType>
+ </cdwalite:objectWorkTypeWrap> 
+ <cdwalite:classificationWrap>
+<cdwalite:classification>pittura</cdwalite:classification>
+</cdwalite:classificationWrap>
+
+ <!--tecnica e materiali dipinto-->
+ <cdwalite:indexingMaterialsTechWrap>
+<cdwalite:indexingMaterialsTechSet>
+<cdwalite:termMaterialsTech>dipinto ad olio </cdwalite:termMaterialsTech>
+<cdwalite:termMaterialsTech>tela</cdwalite:termMaterialsTech>
+</cdwalite:indexingMaterialsTechSet>
+</cdwalite:indexingMaterialsTechWrap> 
+
+<!--dimensioni-->
+<!--formato risorsa digitale-->
+<dc:format>image/jpg</dc:format>
+<!--dimensioni dipinto-->
+<cdwalite:indexingMeasurementsWrap>
+<cdwalite:indexingMeasurementsSet>
+<cdwalite:measurementsSet value="76" unit="cm" type="height">
+</cdwalite:measurementsSet> <cdwalite:measurementsSet value="61" unit="cm"
+type="width"> </cdwalite:measurementsSet>
+</cdwalite:indexingMeasurementsSet>
+</cdwalite:indexingMeasurementsWrap> 
+
+<!--datazione dipinto-->
+
+<cdwalite:indexingDatesWrap>
+<cdwalite:indexingDatesSet> <cdwalite:earliestDate>1930</cdwalite:earliestDate>
+<cdwalite:latestDate>1940</cdwalite:latestDate>
+</cdwalite:indexingDatesSet>
+</cdwalite:indexingDatesWrap> 
+<!--data della risora digitale-->
+<dc:date>2022-01-26</dc:date>
+
+<!--ubicazione attuale dipinto-->
+<cdwalite:locationWrap>
+<cdwalite:locationSet><cdwalite:locationName type="currentRepository"
+identifier="CmalG">Dolci, Fondazione (Brescia, Italia)
+</cdwalite:locationName>
+</cdwalite:locationSet>
+</cdwalite:locationWrap> 
+
+<dc:subject>Paesaggio urbano, Chiesa del Carmine, Brescia, centro storico</dc:subject>
+
+<!--descrizione full text del dipinto-->
+<dc:description>l Carmine è il quartiere di Brescia in cui Martino Dolci nacque e visse per tutta la vita e forte fu il suo legame personale ed artistico con questa zona della città; spesso fra i quadri a tema urbano vediamo spuntare in lontananza i pinnacoli della chiesa gotica. Questo quadro è datato per via stilistica alla fine degli anni '30', probabilmente verso la fine del decennio. Non si hanno prove certe per identificarlo con l'omonimo quadro descritto in occasione della quarta Sindacale bresciana del 1938 </dc:description>
+
+<!--iscrizioni dipinto-->
+<cdwalite:inscriptionsWrap>
+<cdwalite:inscriptions> firma dell'artista in basso a destra</cdwalite:inscriptions>
+ </cdwalite:inscriptionsWrap>
+
+
+<!--medadati amministrativi-->
+
+
+<!--diritti-->
+<dc:rights>pubblico</dc:rights>
+<cdwalite:rightsWork>free</cdwalite:rightsWork> 
+
+<cdwalite:recordWrap>
+<cdwalite:recordID></cdwalite:recordID>
+<cdwalite:recordType>item</cdwalite:recordType>
+<cdwalite:recordSource>Dolci, Fondazione (Brescia, Italia) </cdwalite:recordSource>
+</cdwalite:recordWrap>
+
+<!--altri metadati-->
+<dc:publisher>Roberta Ferretti</dc:publisher>
+<dc:identifier>file:///C:/Users/Roberta/Desktop/Progetto%20DH/item.html</dc:identifier>
+<dc:language>italiano</dc:language>
+
+
+</item>
+</collection>
+
+

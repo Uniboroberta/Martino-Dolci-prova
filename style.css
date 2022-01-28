@@ -1,0 +1,117 @@
+
+
+nav {
+	background-color:#33334d;
+	font-family: georgia;
+}
+
+body,p{
+	font-family: verdana;
+	color:#4d4d4d ;
+	font-size: 15px;
+
+}
+
+body{
+	background-color: #33334d
+}
+
+h2{
+	font-family: verdana;
+	font-size: 20px;
+}
+
+h3{
+  font-size:18px;
+  color: light;
+
+}
+
+
+
+.img-item{
+	height: auto;
+	display: inline-block;
+	width: inherit;
+	margin-left: 220px;
+	position: absolute;
+}
+
+a:link {
+	color:#33334d;
+	
+}
+
+.nav-pills{
+	background-color:white;
+}
+
+#gallery{
+	font-family: verdana;
+}
+
+
+.col-sm-2 {
+	background-color:#33334d;
+	color: white;
+	font-family: verdana;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+
+
+/* Middle column */
+.column.middle {
+  width: 60%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+
+.banner {
+  background: #a770ef;
+  background: -webkit-linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+  background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+  font-family: verdana;
+}
+
+
+table {
+border-collapse:collapse
+}
+td, th {
+border:1px solid #ddd;
+padding:8px;
+}
+
+
+
+.showbutton {display:block;margin:4px 0;}
+.nascondi {overflow:hidden;background: #fcfcfc;}
+.nasondi > div {-webkit-transition: all 0.3s ease;-moz-transition: margin 0.3s ease;-o-transition: all 0.3s ease;transition: margin 0.3s ease;}
+.showbutton[value="Mostra"] + .nascondi > div {margin-top:-100%;}
+.showbutton[value="Nascondi"] + .nascondi {padding:4px;}
+
